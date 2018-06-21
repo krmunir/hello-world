@@ -1,2 +1,4 @@
 # hello-world
-dummy repo
+
+Hi Humans,
+This is a test file.
